@@ -39,8 +39,8 @@ CSK-FAN-PAGE/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/ABSTERGO1706/CSK-FAN-PAGE.git
-cd CSK-FAN-PAGE
+git clone https://github.com/ABSTERGO1706/ShadowFox.git
+cd ShadowFox
 ```
 
 ---
