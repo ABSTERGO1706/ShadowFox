@@ -1,1 +1,33 @@
+# Frontend (React)
+
+node_modules/
+build/
+dist/
+.env
+
+# Backend (Spring Boot)
+
+target/
+*.class
+*.jar
+
+# IDE
+
+.idea/
+*.iml
+.vscode/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Database
+
+*.sql
+*.db
+
+# Logs
+
+*.log
 
