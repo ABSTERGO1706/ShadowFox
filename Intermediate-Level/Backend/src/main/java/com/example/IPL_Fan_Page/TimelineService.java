@@ -1,0 +1,16 @@
+package com.example.IPL_Fan_Page;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.util.List;
+
+@Service
+public class TimelineService {
+    @Autowired
+    private TimelineRepository timelineRepository;
+    public List<Timeline> getAllTimeline()
+    {
+        return timelineRepository.findAll();
+    }
+}
